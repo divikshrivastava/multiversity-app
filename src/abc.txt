@@ -1,0 +1,17 @@
+[
+    "Napoleon", "William Shakespeare", "Abraham Lincoln", "George Washington", "Adolf Hitler",
+    "Aristotle", "Alexander the Great", "Henry VIII of England", "Charles Darwin",
+    "Elizabeth I of England", "Karl Marx", "Julius Caesar", "Queen Victoria", "Joseph Stalin",
+    "Albert Einstein", "Christopher Columbus", "Isaac Newton",
+    "Wolfgang Amadeus Mozart", "Plato", "Ludwig van Beethoven", "Leonardo da Vinci", "Charles Dickens", "Benjamin Franklin",
+    "George W. Bush", "Winston Churchill", "Genghis Khan", "Thomas Edison",
+    "James I of England", "Friedrich Nietzsche", "Franklin D. Roosevelt", "Sigmund Freud", "Alexander Hamilton",
+    "Woodrow Wilson", "Johann Sebastian Bach", "Galileo Galilei", "Oliver Cromwell", "James Madison",
+    "Mark Twain", "Edgar Allan Poe", "George III of the United Kingdom", "Immanuel Kant",
+    "James Cook", "John Adams", "Richard Wagner", "Pyotr Ilyich Tchaikovsky", "Voltaire",
+    "Socrates", "Elvis Presley", "William the Conqueror", "John F. Kennedy",
+    "Vincent van Gogh", "Nicolaus Copernicus", "Vladimir Lenin", "Robert E. Lee", "Oscar Wilde",
+    "Charles II of England", "Cicero", "Jean-Jacques Rousseau", "Francis Bacon", "Richard Nixon",
+    "Louis XVI of France", "Charles V, Holy Roman Emperor", "King Arthur", "Michelangelo", "Philip II of Spain",
+    "Johann Wolfgang von Goethe", "René Descartes", "Nikola Tesla", "Harry S. Truman", "Dante Alighieri", "John Locke"
+]

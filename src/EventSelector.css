@@ -1,0 +1,39 @@
+/* Improve the look of the timeline container */
+.timeline-container {
+    display: flex;
+    overflow-x: auto;
+    padding: 20px;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    width: 100%; /* Full width of the container */
+  }
+  
+  .timeline-container::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /* Styling for each entry in the timeline */
+  .timeline-entry {
+    flex: 0 0 auto;
+    width: 180px;
+    margin: 0 10px;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+    padding: 10px;
+    transition: transform 0.3s ease; /* Smooth transition for scaling */
+  }
+  
+  .timeline-entry.selected {
+    transform: scale(1.1); /* Slightly scale up the selected card */
+    background: rgba(255, 255, 255, 0.5); /* Lighter background for selected */
+  }
+  
+  .timeline-image {
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+  }
+  
+
+  
